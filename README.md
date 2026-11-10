@@ -1,2 +1,5 @@
-# renal-replacement-therapy-mcq-bank-quiz
-Renal Replacement Therapy · MCQ Bank Quiz
+# Renal Replacement Therapy · MCQ Bank Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
